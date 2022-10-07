@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color:darkgray;
+
+}
+.container{
+    width: auto;
+    height: auto;
+    margin:auto;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.pic{
+    margin:auto;
+    width: 20vw;
+    height: 20vh;
+    margin-top: 20px;
+}
+.jinx{
+    margin:auto;
+    display:flex;
+
+}
+p{
+    margin-top: 100px;
+}
